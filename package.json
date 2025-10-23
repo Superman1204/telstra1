@@ -1,5 +1,8 @@
 {
-  "name": "my-vercel-site",
+  "name": "telstra-site",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "nodemailer": "^6.9.1"
+  }
 }
